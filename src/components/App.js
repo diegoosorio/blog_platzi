@@ -3,6 +3,7 @@ import React from 'react';
 const App = () => {
 
 	const ponerFilas = () => [
+    // Se realizó este bloque en la clase anterior
 		<tr>
 			<td>
 				Rodolfo
